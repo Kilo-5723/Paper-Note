@@ -2,6 +2,8 @@
 
 ## Online density bursting subgraph detection from temporal graphs
 
+Keyword: Bursting Core in Temporal Graph
+
 VLDB 2019
 ;
 [paper link](http://www.vldb.org/pvldb/vol12/p2353-chu.pdf)
@@ -27,3 +29,5 @@ VLDB 2022
 [paper link](https://www.vldb.org/pvldb/vol15/p3911-wang.pdf)
 ;
 [note link](p3911-wang.md)
+
+Keyword: Bursting Core in Temporal Graph
